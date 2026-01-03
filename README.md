@@ -76,14 +76,14 @@ Models can be regenerated using the provided training scripts.
 ## 📸 Screenshots
 
 ![Home Page](Screnshots/Picture1.png)
-(Screnshots/Picture2.png)
-(Screnshots/Picture3.png)
-(Screnshots/Picture4.png)
-(Screnshots/Picture5.png)
-(Screnshots/Picture6.png)
-(Screnshots/Picture7.png)
-(Screnshots/Picture8.png)
-(Screnshots/Picture9.png)
+![Home Page](Screnshots/Picture2.png)
+![Home Page](Screnshots/Picture3.png)
+![Home Page](Screnshots/Picture4.png)
+![Home Page](Screnshots/Picture5.png)
+![Home Page](Screnshots/Picture6.png)
+![Home Page](Screnshots/Picture7.png)
+![Home Page](Screnshots/Picture8.png)
+![Home Page](Screnshots/Picture9.png)
 
 
 
