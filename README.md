@@ -74,5 +74,3 @@ Trained machine learning model files (.pkl) are excluded from this repository du
 Models can be regenerated using the provided training scripts.
 
 
-
-Just tell me 😊
