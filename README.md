@@ -75,7 +75,7 @@ Models can be regenerated using the provided training scripts.
 
 ## 📸 Screenshots
 
-![Home Page](Screnshots/picture1.png)
+![Home Page](Screnshots/Picture1.png)
 ![Symptom Checker](screenshots/symptom_checker.png)
 ![Prediction Result](screenshots/prediction_result.png)
 
