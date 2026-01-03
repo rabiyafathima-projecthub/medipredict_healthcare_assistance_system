@@ -73,4 +73,9 @@ Access the application through a web browser
 Trained machine learning model files (.pkl) are excluded from this repository due to GitHub file size limits.
 Models can be regenerated using the provided training scripts.
 
+## 📸 Screenshots
+
+![Home Page](screenshots/picture1.png)
+![Symptom Checker](screenshots/symptom_checker.png)
+![Prediction Result](screenshots/prediction_result.png)
 
