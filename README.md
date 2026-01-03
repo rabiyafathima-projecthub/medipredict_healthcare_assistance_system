@@ -76,14 +76,14 @@ Models can be regenerated using the provided training scripts.
 ## 📸 Screenshots
 
 ![Home Page](Screnshots/Picture1.png)
-![Home Page](Screnshots/Picture2.png)
-![Home Page](Screnshots/Picture3.png)
-![Home Page](Screnshots/Picture4.png)
-![Home Page](Screnshots/Picture5.png)
-![Home Page](Screnshots/Picture6.png)
-![Home Page](Screnshots/Picture7.png)
-![Home Page](Screnshots/Picture8.png)
-![Home Page](Screnshots/Picture9.png)
+![Login page](Screnshots/Picture2.png)
+![Dashboard](Screnshots/Picture3.png)
+![Prediction](Screnshots/Picture4.png)
+![Result](Screnshots/Picture5.png)
+![Medicine dashboard](Screnshots/Picture6.png)
+![Online doctor dashboard](Screnshots/Picture7.png)
+![Lab dashboard](Screnshots/Picture8.png)
+![Lab report](Screnshots/Picture9.png)
 
 
 
