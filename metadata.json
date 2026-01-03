@@ -1,0 +1,7 @@
+{
+  "name": "MediPredict",
+  "description": "An AI-Based Multi-Disease Prediction and Healthcare Assistance System helping patients identify potential conditions and access medical resources.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
